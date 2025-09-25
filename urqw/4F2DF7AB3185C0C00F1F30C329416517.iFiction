@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+	<story>
+		<identification>
+			<ifid>4F2DF7AB3185C0C00F1F30C329416517</ifid>
+			<format>urqw</format>
+		</identification>
+		<bibliographic>
+			<title>Та девушка с четырнадцатого этажа и дождь</title>
+			<author>Chicago1920</author>
+			<language>ru</language>
+			<firstpublished>2013-02-19</firstpublished>
+			<genre>Драма</genre>
+			<group>URQ</group>
+			<description>Она нежна...<br/>Она чертовски нежна, и её волосы приятно пахнут.<br/>Её волосы приятно пахнут морем и закатом,  и я наклоняюсь к ней, чтобы  поцеловать.</description>
+		</bibliographic>
+		<contacts>
+			<url>https://urqw.github.io/UrqW/#girl_from_14</url>
+			<authoremail>chicago1920@mail.ru</authoremail>
+		</contacts>
+		<colophon>
+			<generator>UrqW Game Template</generator>
+			<originated>2025-09-24</originated>
+		</colophon>
+	</story>
+</ifindex>
